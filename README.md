@@ -12,4 +12,6 @@
 - [Form.html](https://github.com/Mahamahu22/Full_Stack/blob/main/FULL%20STACK/DAY%203/Form.html)
 - [Table.html](https://github.com/Mahamahu22/Full_Stack/blob/main/FULL%20STACK/DAY%203/Table.html)
 
+### Day 4
+- [display.html](https://github.com/Mahamahu22/Full_Stack/blob/main/FULL%20STACK/Day%204/display.html)
 
