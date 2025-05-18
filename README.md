@@ -19,6 +19,6 @@
 - [appbar.html](https://github.com/Mahamahu22/Full_Stack/blob/main/FULL%20STACK/Day%205/appbar.html)
 - [typo.html](https://github.com/Mahamahu22/Full_Stack/blob/main/FULL%20STACK/Day%205/typo.html)
 
-- ### Day 6
+### Day 6
 - [flexbox.html](https://github.com/Mahamahu22/Full_Stack/blob/main/FULL%20STACK/DAY%206/flexbox.html)
 - [grid.html](https://github.com/Mahamahu22/Full_Stack/blob/main/FULL%20STACK/DAY%206/grid.html)
